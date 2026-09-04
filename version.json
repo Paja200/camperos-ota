@@ -1,8 +1,8 @@
 {
   "versionCode": 59,
   "versionName": "v59",
-  "apkUrl": "https://raw.githubusercontent.com/Paja200/camperos-ota/main/CamperOS_v59_OTA_SIGNED.apk",
-  "sha256": "822944e0b6c322ceb30511a0c937c9be4556034bff3f8515845143773ed60ba7",
-  "changelog": "Test první OTA aktualizace CamperOS v58 → v59.",
+  "apkUrl": "https://raw.githubusercontent.com/Paja200/camperos-ota/main/CamperOS_v59_FIXED_SIGNED.apk",
+  "sha256": "f6d19a6b2fa62ded0dfed9cd5fba2f4a17df1f1550321f2b2e073fffc4281aaf",
+  "changelog": "První OTA aktualizace CamperOS",
   "forceUpdate": false
 }
