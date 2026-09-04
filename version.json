@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "v58",
-  "apkUrl": "https://raw.githubusercontent.com/Paja200/camperos-ota/main/CamperOS_BORDER_PRECISE_SIGNED.apk",
-  "sha256": "897b2335f58cca60359c4a8af02dd83bb5ad79e368e00e8d9af4e85517b6ee82",
-  "changelog": "První OTA verze CamperOS. České ceny paliva a přesnější hranice CZ/DE/FR/ES.",
+  "versionCode": 59,
+  "versionName": "v59",
+  "apkUrl": "https://raw.githubusercontent.com/Paja200/camperos-ota/main/CamperOS_v59_OTA_SIGNED.apk",
+  "sha256": "822944e0b6c322ceb30511a0c937c9be4556034bff3f8515845143773ed60ba7",
+  "changelog": "Test první OTA aktualizace CamperOS v58 → v59.",
   "forceUpdate": false
 }
